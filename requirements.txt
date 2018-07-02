@@ -1,0 +1,8 @@
+junit-xml
+pyPdf2
+natsort
+# diff_match_patch_python
+lxml
+Pillow
+executor
+py-postgresql
